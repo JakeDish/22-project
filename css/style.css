@@ -1,0 +1,42 @@
+* {
+  margin: 0px;
+  padding: 0px;
+  font-family: 'Times New Roman', Times, serif;
+  background-color: grey;
+}
+
+body {
+  position: relative;
+  font-size: 30px;
+  color: crimson;
+}
+
+h1 {
+  font-size: 100px;
+  color: yellow;
+  padding: 30px;
+
+}
+
+img {
+  display: block;
+  padding: 55px;
+}
+
+header {
+  position: fixed;
+  margin: 0;
+  right: 10px;
+  border: 5px;
+  width: 100%;
+  text-align: right;
+  border-style: solid;
+  border-color: aqua;
+  color: blueviolet;
+}
+
+footer {
+  padding-top: 35px;
+  color: coral;
+}
+
